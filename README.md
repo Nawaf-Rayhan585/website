@@ -7,7 +7,7 @@ s
 s
 s
 s
-s
+sS
 SS
 S
 SSS
