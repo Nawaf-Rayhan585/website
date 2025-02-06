@@ -12,7 +12,7 @@ SS
 S
 SSS
 S
-S
+SS
 SSS
 S
 S
