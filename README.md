@@ -11,7 +11,7 @@ sS
 SSS
 SSS
 SSS
-S
+SS
 SS
 SSS
 S
